@@ -1,0 +1,1 @@
+typeace_modetm_scopecolorextensions
